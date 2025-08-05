@@ -1,0 +1,162 @@
+2025-08-05 16:16:01,827 - INFO root main.py [line:640] - False
+2025-08-05 16:16:02,028 - INFO root main.py [line:654] - Seed num:42
+2025-08-05 16:16:02,029 - INFO root main.py [line:675] - MODEL: decode
+2025-08-05 16:17:19,481 - INFO root main.py [line:640] - False
+2025-08-05 16:17:19,652 - INFO root main.py [line:654] - Seed num:42
+2025-08-05 16:17:19,652 - INFO root main.py [line:675] - MODEL: decode
+2025-08-05 16:17:38,743 - INFO root seqmodel.py [line:20] - build network...
+2025-08-05 16:17:38,743 - INFO root seqmodel.py [line:24] - word feature extractor: LSTM
+2025-08-05 16:22:28,042 - INFO root main.py [line:640] - False
+2025-08-05 16:22:28,208 - INFO root main.py [line:654] - Seed num:42
+2025-08-05 16:22:28,208 - INFO root main.py [line:676] - MODEL: dev/test
+2025-08-05 16:24:33,429 - INFO root main.py [line:640] - False
+2025-08-05 16:24:33,596 - INFO root main.py [line:654] - Seed num:42
+2025-08-05 16:24:33,596 - INFO root main.py [line:676] - MODEL: dev/test
+2025-08-05 16:24:53,145 - INFO root seqmodel.py [line:20] - build network...
+2025-08-05 16:24:53,145 - INFO root seqmodel.py [line:24] - word feature extractor: LSTM
+2025-08-05 16:30:15,697 - INFO root main.py [line:340] - Training model...
+2025-08-05 16:33:50,283 - INFO root main.py [line:656] - False
+2025-08-05 16:33:50,442 - INFO root main.py [line:670] - Seed num:42
+2025-08-05 16:33:50,442 - INFO root main.py [line:692] - MODEL: dev/test
+2025-08-05 16:34:12,648 - INFO root main.py [line:656] - False
+2025-08-05 16:34:12,835 - INFO root main.py [line:670] - Seed num:42
+2025-08-05 16:34:12,836 - INFO root main.py [line:692] - MODEL: dev/test
+2025-08-05 16:34:32,645 - INFO root seqmodel.py [line:20] - build network...
+2025-08-05 16:34:32,645 - INFO root seqmodel.py [line:24] - word feature extractor: LSTM
+2025-08-05 16:39:54,285 - INFO root seqmodel.py [line:20] - build network...
+2025-08-05 16:39:54,285 - INFO root seqmodel.py [line:24] - word feature extractor: LSTM
+2025-08-05 16:43:32,012 - INFO root main.py [line:656] - False
+2025-08-05 16:43:32,157 - INFO root main.py [line:670] - Seed num:42
+2025-08-05 16:43:32,157 - INFO root main.py [line:692] - MODEL: dev/test
+2025-08-05 16:43:52,341 - INFO root seqmodel.py [line:20] - build network...
+2025-08-05 16:43:52,341 - INFO root seqmodel.py [line:24] - word feature extractor: LSTM
+2025-08-05 16:49:17,174 - INFO root seqmodel.py [line:20] - build network...
+2025-08-05 16:49:17,175 - INFO root seqmodel.py [line:24] - word feature extractor: LSTM
+2025-08-05 16:50:59,782 - INFO root main.py [line:656] - False
+2025-08-05 16:51:00,006 - INFO root main.py [line:670] - Seed num:42
+2025-08-05 16:51:00,006 - INFO root main.py [line:692] - MODEL: dev/test
+2025-08-05 16:51:19,192 - INFO root seqmodel.py [line:20] - build network...
+2025-08-05 16:51:19,192 - INFO root seqmodel.py [line:24] - word feature extractor: LSTM
+2025-08-05 16:57:20,184 - INFO root main.py [line:656] - False
+2025-08-05 16:57:20,351 - INFO root main.py [line:670] - Seed num:42
+2025-08-05 16:57:20,352 - INFO root main.py [line:692] - MODEL: dev/test
+2025-08-05 16:57:38,078 - INFO root seqmodel.py [line:20] - build network...
+2025-08-05 16:57:38,079 - INFO root seqmodel.py [line:24] - word feature extractor: LSTM
+2025-08-05 17:03:02,508 - INFO root seqmodel.py [line:20] - build network...
+2025-08-05 17:03:02,509 - INFO root seqmodel.py [line:24] - word feature extractor: LSTM
+2025-08-05 17:11:08,568 - INFO root main.py [line:656] - False
+2025-08-05 17:11:08,744 - INFO root main.py [line:670] - Seed num:42
+2025-08-05 17:11:08,744 - INFO root main.py [line:692] - MODEL: dev/test
+2025-08-05 17:11:21,562 - INFO root seqmodel.py [line:20] - build network...
+2025-08-05 17:11:21,563 - INFO root seqmodel.py [line:24] - word feature extractor: LSTM
+2025-08-05 17:16:43,502 - INFO root seqmodel.py [line:20] - build network...
+2025-08-05 17:16:43,503 - INFO root seqmodel.py [line:24] - word feature extractor: LSTM
+2025-08-05 17:26:32,640 - INFO root main.py [line:656] - False
+2025-08-05 17:26:32,814 - INFO root main.py [line:670] - Seed num:42
+2025-08-05 17:26:32,814 - INFO root main.py [line:709] - MODEL: decode
+2025-08-05 17:27:04,839 - INFO root main.py [line:656] - False
+2025-08-05 17:27:04,997 - INFO root main.py [line:670] - Seed num:42
+2025-08-05 17:27:04,998 - INFO root main.py [line:709] - MODEL: decode
+2025-08-05 17:27:26,679 - INFO root seqmodel.py [line:20] - build network...
+2025-08-05 17:27:26,679 - INFO root seqmodel.py [line:24] - word feature extractor: LSTM
+2025-08-05 17:29:46,153 - INFO root main.py [line:656] - False
+2025-08-05 17:29:46,318 - INFO root main.py [line:670] - Seed num:42
+2025-08-05 17:29:46,318 - INFO root main.py [line:709] - MODEL: decode
+2025-08-05 17:29:59,636 - INFO root seqmodel.py [line:20] - build network...
+2025-08-05 17:29:59,637 - INFO root seqmodel.py [line:24] - word feature extractor: LSTM
+2025-08-05 17:31:00,256 - INFO root main.py [line:656] - False
+2025-08-05 17:31:00,406 - INFO root main.py [line:670] - Seed num:42
+2025-08-05 17:31:00,407 - INFO root main.py [line:709] - MODEL: decode
+2025-08-05 17:31:11,525 - INFO root seqmodel.py [line:20] - build network...
+2025-08-05 17:31:11,526 - INFO root seqmodel.py [line:24] - word feature extractor: LSTM
+2025-08-05 17:34:19,121 - INFO root main.py [line:656] - False
+2025-08-05 17:34:19,281 - INFO root main.py [line:670] - Seed num:42
+2025-08-05 17:34:19,281 - INFO root main.py [line:709] - MODEL: decode
+2025-08-05 17:34:30,639 - INFO root seqmodel.py [line:20] - build network...
+2025-08-05 17:34:30,640 - INFO root seqmodel.py [line:24] - word feature extractor: LSTM
+2025-08-05 17:35:07,094 - INFO root main.py [line:656] - False
+2025-08-05 17:35:07,264 - INFO root main.py [line:670] - Seed num:42
+2025-08-05 17:35:07,265 - INFO root main.py [line:709] - MODEL: decode
+2025-08-05 17:35:19,779 - INFO root seqmodel.py [line:20] - build network...
+2025-08-05 17:35:19,779 - INFO root seqmodel.py [line:24] - word feature extractor: LSTM
+2025-08-05 17:36:05,929 - INFO root main.py [line:656] - False
+2025-08-05 17:36:06,106 - INFO root main.py [line:670] - Seed num:42
+2025-08-05 17:36:06,107 - INFO root main.py [line:709] - MODEL: decode
+2025-08-05 17:36:17,280 - INFO root seqmodel.py [line:20] - build network...
+2025-08-05 17:36:17,281 - INFO root seqmodel.py [line:24] - word feature extractor: LSTM
+2025-08-05 17:36:42,127 - INFO root main.py [line:656] - False
+2025-08-05 17:36:42,296 - INFO root main.py [line:670] - Seed num:42
+2025-08-05 17:36:42,296 - INFO root main.py [line:709] - MODEL: decode
+2025-08-05 17:36:53,788 - INFO root seqmodel.py [line:20] - build network...
+2025-08-05 17:36:53,788 - INFO root seqmodel.py [line:24] - word feature extractor: LSTM
+2025-08-05 17:38:01,100 - INFO root main.py [line:656] - False
+2025-08-05 17:38:01,304 - INFO root main.py [line:670] - Seed num:42
+2025-08-05 17:38:01,304 - INFO root main.py [line:709] - MODEL: decode
+2025-08-05 17:38:13,402 - INFO root seqmodel.py [line:20] - build network...
+2025-08-05 17:38:13,402 - INFO root seqmodel.py [line:24] - word feature extractor: LSTM
+2025-08-05 17:39:57,011 - INFO root main.py [line:656] - False
+2025-08-05 17:39:57,178 - INFO root main.py [line:670] - Seed num:42
+2025-08-05 17:39:57,179 - INFO root main.py [line:709] - MODEL: decode
+2025-08-05 17:40:09,399 - INFO root seqmodel.py [line:20] - build network...
+2025-08-05 17:40:09,399 - INFO root seqmodel.py [line:24] - word feature extractor: LSTM
+2025-08-05 17:41:40,449 - INFO root main.py [line:656] - False
+2025-08-05 17:41:40,596 - INFO root main.py [line:670] - Seed num:42
+2025-08-05 17:41:40,597 - INFO root main.py [line:709] - MODEL: decode
+2025-08-05 17:41:52,407 - INFO root seqmodel.py [line:20] - build network...
+2025-08-05 17:41:52,407 - INFO root seqmodel.py [line:24] - word feature extractor: LSTM
+2025-08-05 17:42:31,283 - INFO root main.py [line:656] - False
+2025-08-05 17:42:31,448 - INFO root main.py [line:670] - Seed num:42
+2025-08-05 17:42:31,448 - INFO root main.py [line:709] - MODEL: decode
+2025-08-05 17:42:43,395 - INFO root seqmodel.py [line:20] - build network...
+2025-08-05 17:42:43,395 - INFO root seqmodel.py [line:24] - word feature extractor: LSTM
+2025-08-05 17:45:11,537 - INFO root main.py [line:656] - False
+2025-08-05 17:45:11,721 - INFO root main.py [line:670] - Seed num:42
+2025-08-05 17:45:11,721 - INFO root main.py [line:709] - MODEL: decode
+2025-08-05 17:45:22,853 - INFO root seqmodel.py [line:20] - build network...
+2025-08-05 17:45:22,853 - INFO root seqmodel.py [line:24] - word feature extractor: LSTM
+2025-08-05 17:45:53,209 - INFO root main.py [line:656] - False
+2025-08-05 17:45:53,371 - INFO root main.py [line:670] - Seed num:42
+2025-08-05 17:45:53,372 - INFO root main.py [line:709] - MODEL: decode
+2025-08-05 17:46:05,656 - INFO root seqmodel.py [line:20] - build network...
+2025-08-05 17:46:05,656 - INFO root seqmodel.py [line:24] - word feature extractor: LSTM
+2025-08-05 17:58:04,778 - INFO root main.py [line:657] - False
+2025-08-05 17:58:04,944 - INFO root main.py [line:671] - Seed num:42
+2025-08-05 17:58:04,944 - INFO root main.py [line:723] - MODEL: decode
+2025-08-05 17:58:31,593 - INFO root main.py [line:657] - False
+2025-08-05 17:58:31,891 - INFO root main.py [line:671] - Seed num:42
+2025-08-05 17:58:31,891 - INFO root main.py [line:723] - MODEL: decode
+2025-08-05 17:59:50,972 - INFO root main.py [line:657] - False
+2025-08-05 17:59:51,136 - INFO root main.py [line:671] - Seed num:42
+2025-08-05 17:59:51,136 - INFO root main.py [line:710] - MODEL: decode
+2025-08-05 18:00:03,202 - INFO root seqmodel.py [line:20] - build network...
+2025-08-05 18:00:03,203 - INFO root seqmodel.py [line:24] - word feature extractor: LSTM
+2025-08-05 18:00:53,417 - INFO root main.py [line:657] - False
+2025-08-05 18:00:53,585 - INFO root main.py [line:671] - Seed num:42
+2025-08-05 18:00:53,585 - INFO root main.py [line:723] - MODEL: decode
+2025-08-05 18:02:36,079 - INFO root main.py [line:657] - False
+2025-08-05 18:02:36,243 - INFO root main.py [line:671] - Seed num:42
+2025-08-05 18:02:36,244 - INFO root main.py [line:723] - MODEL: decode
+2025-08-05 18:02:49,656 - INFO root seqmodel.py [line:20] - build network...
+2025-08-05 18:02:49,657 - INFO root seqmodel.py [line:24] - word feature extractor: LSTM
+2025-08-05 18:04:05,423 - INFO root main.py [line:657] - False
+2025-08-05 18:04:05,567 - INFO root main.py [line:671] - Seed num:42
+2025-08-05 18:04:05,567 - INFO root main.py [line:723] - MODEL: decode
+2025-08-05 18:04:16,397 - INFO root seqmodel.py [line:20] - build network...
+2025-08-05 18:04:16,397 - INFO root seqmodel.py [line:24] - word feature extractor: LSTM
+2025-08-05 18:05:52,828 - INFO root test.py [line:464] - False
+2025-08-05 18:05:53,040 - INFO root test.py [line:478] - Seed num:42
+2025-08-05 18:05:53,040 - INFO root test.py [line:530] - MODEL: decode
+2025-08-05 18:06:04,251 - INFO root seqmodel.py [line:20] - build network...
+2025-08-05 18:06:04,252 - INFO root seqmodel.py [line:24] - word feature extractor: LSTM
+2025-08-05 18:06:48,601 - INFO root test.py [line:464] - False
+2025-08-05 18:06:48,778 - INFO root test.py [line:478] - Seed num:42
+2025-08-05 18:06:48,779 - INFO root test.py [line:500] - MODEL: dev/test
+2025-08-05 18:07:07,714 - INFO root seqmodel.py [line:20] - build network...
+2025-08-05 18:07:07,714 - INFO root seqmodel.py [line:24] - word feature extractor: LSTM
+2025-08-05 18:12:30,338 - INFO root seqmodel.py [line:20] - build network...
+2025-08-05 18:12:30,338 - INFO root seqmodel.py [line:24] - word feature extractor: LSTM
+2025-08-05 18:14:03,891 - INFO root test.py [line:464] - False
+2025-08-05 18:14:04,054 - INFO root test.py [line:478] - Seed num:42
+2025-08-05 18:14:04,054 - INFO root test.py [line:517] - MODEL: decode
+2025-08-05 18:14:15,506 - INFO root seqmodel.py [line:20] - build network...
+2025-08-05 18:14:15,506 - INFO root seqmodel.py [line:24] - word feature extractor: LSTM
