@@ -11,6 +11,7 @@ _model/attention.py_ codes for Deep-XCCA attention.
 _model/wordsequence.py_ codes for Deep-XCCA model.  
 _utils/data.py_ codes for input embedding vectors and 64-possible codons as embedding vectors.  
 _utils/metric.py_ codes for evaluation metric. 
+model weights:https://pan.baidu.com/share/init?surl=tXn8EllT9gwdm8gsebI0PA&pwd=1310
 
 ## System_Requirements
 ### 1.Hardware requorements
