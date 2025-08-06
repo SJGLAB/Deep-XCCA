@@ -42,5 +42,5 @@ We recommend you to use Anaconda to prepare the environments.
 ### Example of Running Command
 python test.py --status dev --batch_size 8 --hidden_dim 3000 --word_emb_dim 3000 --lstm_layer 4 --train_dir ./data/train_cds_2k5_all_label.txt --dev_dir ./data/val_cds_2k5_all_label.txt --test_dir ./data/test_cds_2k5_all_label.txt --load_model_dir w3000_xlxx_num20.model --dset_dir w3000_xlxx_num20.dset --word_emb_dir ./data/train3000.vector
 
-# Contact Us
+## Contact Us
 If you have any questions in using Deep-XCCA, contact us.
