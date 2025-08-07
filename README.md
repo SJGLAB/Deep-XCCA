@@ -23,11 +23,11 @@ Only a standard computer with enough RAM to support the in-memory operations is 
 (1)	Linux x64  
 (2)	Windows 10 x64  
 #### And the following x86_64 version of Python:
-Python 3.10  
+Python 3.X  
 #### Python dependencies:
 (1)	torch  
-(2)	biopython  
-(3)	pip  
+(2)	Bio 
+(3)	torchvision 
 
 ## Installation_Guide
 ### Download the codes
